@@ -1,0 +1,39 @@
+{
+  "signup": [
+    {
+      "Fname": "John",
+      "Lname": "Smith",
+      "password": "typicode453",
+      "email": "johnsmith95@gmail.com",
+      "id": "1"
+    },
+    {
+      "Fname": "Ken",
+      "Lname": "Miles",
+      "password": "fordgt40",
+      "email": "kenmiles947@gmail.com",
+      "id": "2"
+    },
+    {
+      "Fname": "Bruce",
+      "Lname": "Wayne",
+      "password": "batman1989",
+      "email": "batman89@gmail.com",
+      "id": "3"
+    },
+    {
+      "Fname": "Anthony",
+      "Lname": "Stark",
+      "password": "iamironman",
+      "email": "ironman65@gmail.com",
+      "id": "4"
+    },
+    {
+      "Fname": "Peter",
+      "Lname": "Parker",
+      "password": "spoderman",
+      "email": "spiderman65@gmail.com",
+      "id": "8FJnrjl"
+    }
+  ]
+}
